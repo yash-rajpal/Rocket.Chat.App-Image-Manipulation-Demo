@@ -1,0 +1,1 @@
+# Rocket.Chat.App-Image-Manipulation-Demo
