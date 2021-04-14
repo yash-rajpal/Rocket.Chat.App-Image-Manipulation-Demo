@@ -1,0 +1,19 @@
+{
+    "id": "38e822d7-1786-4ebc-a00d-ac25a1fc7167",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.23.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Yash Rajpal",
+        "homepage": "GG",
+        "support": "GG"
+    },
+    "name": "image-manipulation-demo",
+    "nameSlug": "image-manipulation-demo",
+    "classFile": "BadWordsFilterApp.ts",
+    "description": "image-manipulation-demo",
+    "implements": [
+        "IPostMessageSent",
+        "IPreFileUpload"
+    ]
+}
